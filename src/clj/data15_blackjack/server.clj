@@ -102,7 +102,7 @@
 (defroutes my-routes
            "Basic endpoints:
 
-           * `/`      langing page,
+           * `/`      landing page,
            * `/chsh`  sente channels,
            * `/login` to set user name
            * plus the usual static resources"
